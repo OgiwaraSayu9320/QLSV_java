@@ -1,1 +1,4 @@
-# QLSV_java
+- Poject quản lý sinh viên.
+- sử dụng ngôn ngữ java.
+- sử dụng java Swing để thiết kế giao diện.
+- sử dụng Sql sever để lưu cơ sở dữ liệu.
